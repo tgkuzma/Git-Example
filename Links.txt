@@ -4,4 +4,8 @@ https://www.youtube.com/watch?v=i_23KUAEtUM&t=300s
 3) In the lowere left (status bar) it shows "main*" as the branch... To change open the command pallet and type "Rename Branch"... Then rename it
 4) New files will have a "U" (untracked) in the file explorer.  To add it click the "+" sign in the context menu next to it.
     This will add it and show an "A" (added)... It also "stages" the change(s)
-5) To "Commit"... add a message then click the check mark above it.
+5) To "Commit"... add a message then click the check mark above it
+
+6) To create a new Branch
+    A) Go to command pallet and type "Create Branch" and name it
+
