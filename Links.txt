@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=i_23KUAEtUM&t=300s
+1) Click on the "Repository" icon in the tool pain
+2) Choose "Initialize Repository"
+3) In the lowere left (status bar) it shows "main*" as the branch... To change open the command pallet and type "Rename Branch"... Then rename it
+4) 
