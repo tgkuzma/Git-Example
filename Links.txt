@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=i_23KUAEtUM&t=300s
 6) To create a new Branch
     A) Go to command pallet and type "Create Branch" and name it
 
+
+7) If I want to the main branch (in this case "my-first-branch") or any other sub-branch to reflect the changes from a sub-branch...
+    From the context menu choose Branch --> Merge... --> choose the target branch to merge FROM
