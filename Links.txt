@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=i_23KUAEtUM&t=300s
 
 7) If I want to the main branch (in this case "my-first-branch") or any other sub-branch to reflect the changes from a sub-branch...
     From the context menu choose Branch --> Merge... --> choose the target branch to merge FROM
+
+8) To publish to GitHub... Click the publish button
